@@ -1,6 +1,10 @@
 /download
 /eclipseBin
 
+## libraries
+/MysticalLib
+/MysticalWorld
+
 ## gradle
 **/.gradle
 **/build
